@@ -1,2 +1,2 @@
-# charchoob
-Software Architecture
+# CharChoob
+a Software Architecture
